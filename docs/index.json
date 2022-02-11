@@ -1,0 +1,1366 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/Components/CheckAvailability.js",
+    "content": "const CheckAvailability = (opus) => {\n  var availability = 'Disponible';\n  if (opus.orders.length < 1) {\n    return availability;\n  } else {\n    opus.orders.forEach(order => {\n      if (order.Step === 1) {\n        const now = Date.now();\n        const dateEnd = new Date(order.Dateend);\n        if (now < dateEnd) {\n          availability = 'Non disponible';\n        }\n      }\n    });\n    return availability;\n  }\n}\n\nexport default CheckAvailability;",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/Components/CheckAvailability.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "CheckAvailability",
+    "memberof": "src/Components/CheckAvailability.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Components/CheckAvailability.js~CheckAvailability",
+    "access": "public",
+    "export": true,
+    "importPath": "frontend/src/Components/CheckAvailability.js",
+    "importStyle": "CheckAvailability",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "opus",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "src/Components/Filters.js",
+    "content": "const Filters = (allOpus, artistFilter, availabilityFilter, typeFilter, sizeFilter, searchFilter) => {\n\n  // Filter by artist\n  const artistFilterFunction = (opus) => {\n    if(!artistFilter.includes(opus.Artistname)) {\n      opus.display = false;\n    }\n    return opus;\n  }\n\n  // Filter by availability\n  const availabilityFilterFunction = (opus) => {\n    if(!availabilityFilter.includes(opus.availability)) {\n      opus.display = false;\n    }\n    return opus;\n  }\n\n  // Filter by type\n  const typeFilterFunction = (opus) => {\n    if(!typeFilter.includes(opus.TypeID)) {\n      opus.display = false;\n    }\n    return opus;\n  }\n\n  // Filter by size\n  const sizeFilterFunction = (opus) => {\n    if (opus.Opuswidth < sizeFilter[0]) {\n      opus.display = false;\n    }\n    if (opus.Opuswidth > sizeFilter[1]) {\n      opus.display = false;\n    }\n    if (opus.Opusheigh < sizeFilter[2]) {\n      opus.display = false;\n    }\n    if (opus.Opusheigh > sizeFilter[3]) {\n      opus.display = false;\n    }\n    return opus;\n  }\n\n  // Filter by search\n  const searchFilterFunction = (opus) => {\n    const name = opus.Opusname.toLowerCase();\n    if (name.search(searchFilter) === -1) {\n      opus.display = false;\n    }\n    return opus;\n  }\n  allOpus.forEach(element => {\n    element.display = true;\n    if (artistFilter.length > 0) {\n      element = artistFilterFunction(element);\n    }\n    if (availabilityFilter.length > 0) {\n      element = availabilityFilterFunction(element);\n    }\n    if (typeFilter.length > 0) {\n      element = typeFilterFunction(element);\n    }\n    if (searchFilter !== '') {\n      element = searchFilterFunction(element);\n    }\n    element = sizeFilterFunction(element);\n  });\n  return allOpus;\n}\n\nexport default Filters;",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/Components/Filters.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "Filters",
+    "memberof": "src/Components/Filters.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Components/Filters.js~Filters",
+    "access": "public",
+    "export": true,
+    "importPath": "frontend/src/Components/Filters.js",
+    "importStyle": "Filters",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "allOpus",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "artistFilter",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "availabilityFilter",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "typeFilter",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "sizeFilter",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "searchFilter",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/Components/IsOpusAvailable.js",
+    "content": "import { useEffect, useState } from \"react\";\nimport { serverAddr } from \"../Config\";\nimport { Cookies } from \"react-cookie\";\n\nconst IsOpusAvailable = (opusID, dateBegin, dateEnd, currentOrderID) => {\n  const Cookie = new Cookies();\n  const cookieToken = Cookie.get('access_token');\n  const token = cookieToken.access_token;\n  var myHeaders = new Headers();\n  myHeaders.append(\"Authorization\", \"Bearer \" + token);\n\n  var requestOptions = {\n    method: 'GET',\n    headers: myHeaders,\n    redirect: 'follow'\n  };\n\n  return fetch(serverAddr + \"opus/\" + opusID, requestOptions)\n    .then(response => response.json())\n    .then(result => {\n      var available = true;\n      result.Opus.orders.forEach(order => {\n        if (order.OrderID !== currentOrderID) {\n          const begin = new Date(order.Datebegin);\n          const end = new Date(order.Dateend);\n          if (begin <= dateBegin && dateBegin <= end) {\n            available = false;\n          }\n          if (begin <= dateEnd && dateEnd <= end) {\n            available = false;\n          }\n          if(dateBegin <= begin && end <= dateEnd) {\n            available = false;\n          }\n        }\n      })\n      return available;\n    })\n    .catch(error => console.log('error', error));\n}\n\nexport default IsOpusAvailable;",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/Components/IsOpusAvailable.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "IsOpusAvailable",
+    "memberof": "src/Components/IsOpusAvailable.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Components/IsOpusAvailable.js~IsOpusAvailable",
+    "access": "public",
+    "export": true,
+    "importPath": "frontend/src/Components/IsOpusAvailable.js",
+    "importStyle": "IsOpusAvailable",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "params": [
+      {
+        "name": "opusID",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "dateBegin",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "dateEnd",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "currentOrderID",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/Components/TotalRentTime.js",
+    "content": "const TotalRentTime = (opus) => {\n  var totalDuration = 0;\n  opus.orders.forEach(order => {\n    // Add controller.\n    if (order.Step === 2) {\n      const dateBegin = new Date(order.Datebegin);\n      const dateEnd = new Date(order.Dateend);\n      const duration = dateEnd - dateBegin;\n      totalDuration += duration;\n    }\n  })\n\n  return totalDuration;\n}\n\nexport default TotalRentTime;",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/Components/TotalRentTime.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "TotalRentTime",
+    "memberof": "src/Components/TotalRentTime.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Components/TotalRentTime.js~TotalRentTime",
+    "access": "public",
+    "export": true,
+    "importPath": "frontend/src/Components/TotalRentTime.js",
+    "importStyle": "TotalRentTime",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "opus",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "src/Components/getAddress.js",
+    "content": "const MAPBOX_ACCESS_TOKEN = 'pk.eyJ1IjoiZXJ3aW4xMCIsImEiOiJja3oydngycXMwMHZkMnFwZ2c0NmZjdTFnIn0.r7kSYo2UKQiFgPF8TSMPEg';\r\n\r\nconst getAddress = async (longitude, latitude) => {\r\n    var requestOptions = {\r\n        method: 'GET',\r\n      };\r\n      const address = await fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/${longitude},${latitude}.json?access_token=${MAPBOX_ACCESS_TOKEN}`, requestOptions)\r\n      .then(response => response.json())\r\n      .then(res => res.features[0].place_name);\r\n\r\n      return address;\r\n}\r\n\r\nexport default getAddress;",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/Components/getAddress.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "variable",
+    "name": "MAPBOX_ACCESS_TOKEN",
+    "memberof": "src/Components/getAddress.js",
+    "static": true,
+    "longname": "src/Components/getAddress.js~MAPBOX_ACCESS_TOKEN",
+    "access": "public",
+    "export": false,
+    "importPath": "frontend/src/Components/getAddress.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 58,
+    "kind": "function",
+    "name": "getAddress",
+    "memberof": "src/Components/getAddress.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/Components/getAddress.js~getAddress",
+    "access": "public",
+    "export": true,
+    "importPath": "frontend/src/Components/getAddress.js",
+    "importStyle": "getAddress",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "longitude",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "latitude",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "file",
+    "name": "src/Components/getCoordinates.js",
+    "content": "const MAPBOX_ACCESS_TOKEN = 'pk.eyJ1IjoiZXJ3aW4xMCIsImEiOiJja3oydngycXMwMHZkMnFwZ2c0NmZjdTFnIn0.r7kSYo2UKQiFgPF8TSMPEg';\r\n\r\nconst getCoordinates = (adresse) => {\r\n    encodeURIComponent(adresse);\r\n    var requestOptions = {\r\n        method: 'GET',\r\n      };\r\n      const gps = fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/${adresse}.json?access_token=${MAPBOX_ACCESS_TOKEN}`, requestOptions)\r\n      .then(response => response.json())\r\n      .then(res => res.features[0].geometry)\r\n\r\n      return gps;\r\n}\r\n\r\nexport default getCoordinates;",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/Components/getCoordinates.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 60,
+    "kind": "variable",
+    "name": "MAPBOX_ACCESS_TOKEN",
+    "memberof": "src/Components/getCoordinates.js",
+    "static": true,
+    "longname": "src/Components/getCoordinates.js~MAPBOX_ACCESS_TOKEN",
+    "access": "public",
+    "export": false,
+    "importPath": "frontend/src/Components/getCoordinates.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "getCoordinates",
+    "memberof": "src/Components/getCoordinates.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Components/getCoordinates.js~getCoordinates",
+    "access": "public",
+    "export": true,
+    "importPath": "frontend/src/Components/getCoordinates.js",
+    "importStyle": "getCoordinates",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "adresse",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "src/Config.js",
+    "content": "export const serverAddr = 'https://ecpback.herokuapp.com/';\nexport const siteAddr = 'https://courantdart.herokuapp.com/';",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/Config.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "variable",
+    "name": "serverAddr",
+    "memberof": "src/Config.js",
+    "static": true,
+    "longname": "src/Config.js~serverAddr",
+    "access": "public",
+    "export": true,
+    "importPath": "frontend/src/Config.js",
+    "importStyle": "{serverAddr}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "variable",
+    "name": "siteAddr",
+    "memberof": "src/Config.js",
+    "static": true,
+    "longname": "src/Config.js~siteAddr",
+    "access": "public",
+    "export": true,
+    "importPath": "frontend/src/Config.js",
+    "importStyle": "{siteAddr}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "file",
+    "name": "src/api/axios.js",
+    "content": "import axios from 'axios';\r\n\r\nexport default axios.create({\r\n    baseURL: 'http://localhost:3000'\r\n});",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/api/axios.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 66,
+    "kind": "file",
+    "name": "src/services/auth-header.js",
+    "content": "export default function authHeader() {\r\n  const user = JSON.parse(localStorage.getItem(\"user\"));\r\n\r\n  if (user && user.access_token) {\r\n    return { headers: {\"Authorization\" : `Bearer ${user.access_token}`} };\r\n    //return { \"x-auth-token\": user.accessToken };\r\n  } else {\r\n    return {};\r\n  }\r\n}",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/services/auth-header.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 67,
+    "kind": "function",
+    "name": "authHeader",
+    "memberof": "src/services/auth-header.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/services/auth-header.js~authHeader",
+    "access": "public",
+    "export": true,
+    "importPath": "frontend/src/services/auth-header.js",
+    "importStyle": "authHeader",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "{}"
+      ]
+    }
+  },
+  {
+    "__docId__": 68,
+    "kind": "file",
+    "name": "src/services/auth.js",
+    "content": "import { Cookies } from \"react-cookie\";\nimport { serverAddr } from \"../Config\";\n\nconst Auth = async () => {\n  const Cookie = new Cookies();\n  const cookieToken = Cookie.get('access_token');\n  const GetUserInfos = async () => {\n    var myHeaders = new Headers();\n    myHeaders.append(\"Authorization\", \"Bearer \" + cookieToken.access_token);\n\n    var requestOptions = {\n      method: 'GET',\n      headers: myHeaders,\n      redirect: 'follow'\n    };\n\n    return fetch(serverAddr + \"users/profile\", requestOptions)\n      .then(response => response.json())\n      .then(result => {\n        return result;\n      })\n      .catch(error => console.log('error', error));\n  }\n  var result = await GetUserInfos();\n  return result;\n}\nexport default Auth;",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/services/auth.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 69,
+    "kind": "function",
+    "name": "Auth",
+    "memberof": "src/services/auth.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/services/auth.js~Auth",
+    "access": "public",
+    "export": true,
+    "importPath": "frontend/src/services/auth.js",
+    "importStyle": "Auth",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "file",
+    "name": "src/services/auth.service.js",
+    "content": "import { Redirect } from \"react-router-dom\";\r\nimport { withCookies, Cookies } from 'react-cookie';\r\nimport axios from \"axios\";\r\nimport { useNavigate } from \"react-router-dom\";\r\nconst API_URL = \"http://localhost:3000/users\";\r\n\r\nconst signup = (email, password) => {\r\n  return axios\r\n    .post(API_URL, {\r\n      email,\r\n      password,\r\n    })\r\n    .then((response) => {\r\n      if (response.data.accessToken) {\r\n        localStorage.setItem(\"user\", JSON.stringify(response.data));\r\n      }\r\n\r\n      return response.data;\r\n    });\r\n};\r\n\r\nconst login = (Email, Password) => {\r\n  return axios\r\n\r\n  .post(\"http://localhost:3000/users/login\", {\r\n      Email,\r\n      Password,\r\n    })\r\n  .then((response) => {\r\n    if (response.data.accessToken) {\r\n      localStorage.setItem(\"user\", JSON.stringify(response.data));\r\n    }\r\n    return response.data;\r\n  });\r\n};\r\n\r\nconst Logout = () => {\r\nconst navigate = useNavigate();\r\n  localStorage.removeItem(\"userInfos\");\r\n  navigate(\"/\");\r\n};\r\n\r\nconst getCurrentUser = () => {\r\n  return JSON.parse(localStorage.getItem(\"user\"));\r\n};\r\n\r\nconst getCookieToken= () => {\r\n  const cookieToken = new Cookies();\r\n  return cookieToken.get('access_token');\r\n};\r\n\r\nconst authService = {\r\n  signup,\r\n  login,\r\n  Logout,\r\n  getCurrentUser,\r\n  getCookieToken,\r\n};\r\n\r\nexport default authService;",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/services/auth.service.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 71,
+    "kind": "variable",
+    "name": "API_URL",
+    "memberof": "src/services/auth.service.js",
+    "static": true,
+    "longname": "src/services/auth.service.js~API_URL",
+    "access": "public",
+    "export": false,
+    "importPath": "frontend/src/services/auth.service.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 72,
+    "kind": "function",
+    "name": "signup",
+    "memberof": "src/services/auth.service.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/services/auth.service.js~signup",
+    "access": "public",
+    "export": false,
+    "importPath": "frontend/src/services/auth.service.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "params": [
+      {
+        "name": "email",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "password",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 73,
+    "kind": "function",
+    "name": "login",
+    "memberof": "src/services/auth.service.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/services/auth.service.js~login",
+    "access": "public",
+    "export": false,
+    "importPath": "frontend/src/services/auth.service.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true,
+    "params": [
+      {
+        "name": "Email",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "Password",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "Logout",
+    "memberof": "src/services/auth.service.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/services/auth.service.js~Logout",
+    "access": "public",
+    "export": false,
+    "importPath": "frontend/src/services/auth.service.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 37,
+    "undocument": true,
+    "params": [],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 75,
+    "kind": "function",
+    "name": "getCurrentUser",
+    "memberof": "src/services/auth.service.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/services/auth.service.js~getCurrentUser",
+    "access": "public",
+    "export": false,
+    "importPath": "frontend/src/services/auth.service.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 43,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "getCookieToken",
+    "memberof": "src/services/auth.service.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/services/auth.service.js~getCookieToken",
+    "access": "public",
+    "export": false,
+    "importPath": "frontend/src/services/auth.service.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 47,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 77,
+    "kind": "variable",
+    "name": "authService",
+    "memberof": "src/services/auth.service.js",
+    "static": true,
+    "longname": "src/services/auth.service.js~authService",
+    "access": "public",
+    "export": true,
+    "importPath": "frontend/src/services/auth.service.js",
+    "importStyle": "authService",
+    "description": null,
+    "lineNumber": 52,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"signup\": *, \"login\": *, \"Logout\": *, \"getCurrentUser\": *, \"getCookieToken\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 78,
+    "kind": "file",
+    "name": "src/services/post.service.js",
+    "content": "import axios from \"axios\";\r\nimport authHeader from \"./auth-header\";\r\nimport { serverAddr } from \"../Config\";\r\n\r\nconst getProfile = () => {\r\n  return axios.get(serverAddr+\"users/profile\", { headers: authHeader() });\r\n};\r\n\r\nconst postService = {\r\n    getProfile,\r\n};\r\n\r\nexport default postService;",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/services/post.service.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 79,
+    "kind": "function",
+    "name": "getProfile",
+    "memberof": "src/services/post.service.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/services/post.service.js~getProfile",
+    "access": "public",
+    "export": false,
+    "importPath": "frontend/src/services/post.service.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 80,
+    "kind": "variable",
+    "name": "postService",
+    "memberof": "src/services/post.service.js",
+    "static": true,
+    "longname": "src/services/post.service.js~postService",
+    "access": "public",
+    "export": true,
+    "importPath": "frontend/src/services/post.service.js",
+    "importStyle": "postService",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"getProfile\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "file",
+    "name": "src/setupTests.js",
+    "content": "// jest-dom adds custom jest matchers for asserting on DOM nodes.\n// allows you to do things like:\n// expect(element).toHaveTextContent(/react/i)\n// learn more: https://github.com/testing-library/jest-dom\nimport '@testing-library/jest-dom';\n",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/setupTests.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 82,
+    "kind": "file",
+    "name": "src/store.js",
+    "content": "import { createStore, applyMiddleware } from \"redux\";\r\nimport { composeWithDevTools } from \"redux-devtools-extension\";\r\nimport thunk from \"redux-thunk\";\r\nimport rootReducer from \"./reducers\";\r\n\r\nconst middleware = [thunk];\r\n\r\nconst store = createStore(\r\n  rootReducer,\r\n  composeWithDevTools(applyMiddleware(...middleware))\r\n);\r\n\r\nexport default store;",
+    "static": true,
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/src/store.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 83,
+    "kind": "variable",
+    "name": "middleware",
+    "memberof": "src/store.js",
+    "static": true,
+    "longname": "src/store.js~middleware",
+    "access": "public",
+    "export": false,
+    "importPath": "frontend/src/store.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "undefined[]"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 84,
+    "kind": "variable",
+    "name": "store",
+    "memberof": "src/store.js",
+    "static": true,
+    "longname": "src/store.js~store",
+    "access": "public",
+    "export": true,
+    "importPath": "frontend/src/store.js",
+    "importStyle": "store",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": "# Getting Started with Create React App\n\nThis project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\n\n## Available Scripts\n\nIn the project directory, you can run:\n\n### `npm start`\n\nRuns the app in the development mode.\\\nOpen [http://localhost:3000](http://localhost:3000) to view it in your browser.\n\nThe page will reload when you make changes.\\\nYou may also see any lint errors in the console.\n\n### `npm test`\n\nLaunches the test runner in the interactive watch mode.\\\nSee the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.\n\n### `npm run build`\n\nBuilds the app for production to the `build` folder.\\\nIt correctly bundles React in production mode and optimizes the build for the best performance.\n\nThe build is minified and the filenames include the hashes.\\\nYour app is ready to be deployed!\n\nSee the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.\n\n### `npm run eject`\n\n**Note: this is a one-way operation. Once you `eject`, you can't go back!**\n\nIf you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.\n\nInstead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.\n\nYou don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.\n\n## Learn More\n\nYou can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).\n\nTo learn React, check out the [React documentation](https://reactjs.org/).\n\n### Code Splitting\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)\n\n### Analyzing the Bundle Size\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)\n\n### Making a Progressive Web App\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)\n\n### Advanced Configuration\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)\n\n### Deployment\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)\n\n### `npm run build` fails to minify\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)\n",
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"frontend\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"@fortawesome/fontawesome-svg-core\": \"^1.2.36\",\n    \"@fortawesome/free-solid-svg-icons\": \"^5.15.4\",\n    \"@fortawesome/react-fontawesome\": \"^0.1.17\",\n    \"@testing-library/jest-dom\": \"^5.16.1\",\n    \"@testing-library/react\": \"^12.1.2\",\n    \"@testing-library/user-event\": \"^13.5.0\",\n    \"axios\": \"^0.25.0\",\n    \"bootstrap\": \"^5.1.3\",\n    \"deck.gl\": \"^8.6.8\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"md5\": \"^2.3.0\",\n    \"prop-types\": \"^15.8.1\",\n    \"rc-calendar\": \"^9.15.11\",\n    \"react\": \"^17.0.2\",\n    \"react-avatar\": \"^4.0.0\",\n    \"react-bootstrap\": \"^2.1.1\",\n    \"react-bootstrap-icons\": \"^1.7.2\",\n    \"react-calendar\": \"^3.6.0\",\n    \"react-cookie\": \"^4.1.1\",\n    \"react-dom\": \"^17.0.2\",\n    \"react-file-base64\": \"^1.0.3\",\n    \"react-hook-form\": \"^7.26.1\",\n    \"react-map-gl\": \"^6.1.19\",\n    \"react-moment\": \"^1.1.1\",\n    \"react-multiple-image-uploader\": \"^1.0.3\",\n    \"react-redux\": \"^7.2.6\",\n    \"react-router-dom\": \"^6.2.1\",\n    \"react-scripts\": \"5.0.0\",\n    \"react-validation\": \"^3.0.7\",\n    \"redux\": \"^4.1.2\",\n    \"redux-thunk\": \"^2.4.1\",\n    \"utf8\": \"^3.0.0\",\n    \"validator\": \"^13.7.0\",\n    \"victory\": \"^36.2.1\",\n    \"web-vitals\": \"^2.1.4\"\n  },\n  \"scripts\": {\n    \"start\": \"node --max_old_space_size=512 node_modules/.bin/react-scripts start\",\n    \"build\": \"node --max_old_space_size=512 node_modules/.bin/react-scripts build\",\n    \"test\": \"react-scripts test\",\n    \"eject\": \"react-scripts eject\"\n  },\n  \"eslintConfig\": {\n    \"extends\": [\n      \"react-app\",\n      \"react-app/jest\"\n    ]\n  },\n  \"browserslist\": {\n    \"production\": [\n      \">0.2%\",\n      \"not dead\",\n      \"not op_mini all\"\n    ],\n    \"development\": [\n      \"last 1 chrome version\",\n      \"last 1 firefox version\",\n      \"last 1 safari version\"\n    ]\n  },\n  \"devDependencies\": {\n    \"react-test-renderer\": \"^17.0.2\",\n    \"redux-devtools-extension\": \"^2.13.9\"\n  }\n}\n",
+    "longname": "/home/geraldgrossmann/Rendu/C-COD-260-PAR-2-1-ecp-florian.barbereau/frontend/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
